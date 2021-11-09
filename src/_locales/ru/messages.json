@@ -4,7 +4,7 @@
     "description": "Название расширения."
   },
   "extensionDescription": {
-    "message": "Перенаправляет запросы к Twitter, YouTube, Instagram и Google Maps на альтернативные сервисы, дружелюбные к приватности.",
+    "message": "Перенаправляет запросы с Twitter, YouTube, Instagram и Google Maps на альтернативные сервисы, дружелюбные к приватности.",
     "description": "Описание расширения."
   },
   "nitterInstance": {
@@ -28,7 +28,7 @@
     "description": "Название настройки (в настройках) поля сервиса Reddit."
   },
   "searchEngineInstance": {
-    "message": "Сервис поисковой системы",
+    "message": "Альтернативные поисковые системы",
     "description": "Название настройки (в настройках) поля сервиса поисковой системы."
   },
   "simplyTranslateInstance": {
@@ -56,7 +56,7 @@
     "description": "Название настройки для включения/выключения перенаправления Reddit (в настройках и всплывающем окне)."
   },
   "disableSearchEngine": {
-    "message": "Перенаправление поисковой системы",
+    "message": "Перенаправление на альтернативные поисковые системы",
     "description": "Название настройки для включения/выключения перенаправления поисковой системы (в настройках и всплывающем окне)."
   },
   "disableSimplyTranslate": {
@@ -80,7 +80,7 @@
     "description": "Название настройки для 'Качество видео Invidious' (в настройках)."
   },
   "removeTwitterSW": {
-    "message": "Проактивно удалять service worker для Twitter",
+    "message": "Проактивно удалять \"Service worker\" для Twitter",
     "description": "Название настройки для 'Проактивно удалять service worker для Twitter' (в настройках)."
   },
   "invidiousDarkMode": {
